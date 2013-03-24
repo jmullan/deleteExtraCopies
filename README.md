@@ -15,4 +15,5 @@ Run this:
     $ ./cleanTree.php music/
     foo (1).mp3
     delete foo (1).mp3 in favor of foo.mp3 in music/
-    It's pretty straightforward. Make your own backups!
+
+It's pretty straightforward. Make your own backups!
